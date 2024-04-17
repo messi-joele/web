@@ -2,4 +2,4 @@
 RewriteEngine on
 
 # Redireziona tutte le richieste a index.php
-RewriteRule ^(.*)$ index2.php [QSA]
+RewriteRule ^(.*)$ index.php [QSA]
